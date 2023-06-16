@@ -13,6 +13,6 @@ Google Bangkit 2023 Capstone Project from  **C23-PC691**
 - (CC) C163DSX1633 - Gigih Rahmandita Hatta Nugraha - Universitas Dian Nuswantoro
 
 Project Path:
-- [Android](https://github.com/LetSea-Nautical/android-app)
+- [Mobile Development](https://github.com/LetSea-Nautical/android-app)
 - [Cloud Computing](https://github.com/LetSea-Nautical/cloud-api)
 - [Machine Learning](https://github.com/LetSea-Nautical/ml-model)
